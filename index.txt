@@ -9,3 +9,7 @@ Data:16/10/2026
 
 
  Nós somos Heytor e Daniel, somos desenvolvedores web dedicados à criação de sites modernos, funcionais e responsivos. Trabalhamos em equipe, utilizando tecnologias como HTML, CSS e JavaScript para desenvolver soluções digitais criativas e oferecer a melhor experiência aos usuários.
+
+
+
+ Estou aprendendo git e GitHub.
